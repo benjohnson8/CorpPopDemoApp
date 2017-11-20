@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CorpPopDemoApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_search">Search</string>
+    <string name="tv_instructions">Search for an image below</string>
+</resources>
